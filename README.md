@@ -6,3 +6,4 @@ This project implements infinite scroll functionality as seen on sites such as F
 ## Resources Used
 - Loader: [Loader SVG](loading.io)
 - Fonts: [Google Fonts](fonts.google.com) - Bebas Neue
+- API: [Unsplash](https://unsplash.com/documentation#getting-started)
